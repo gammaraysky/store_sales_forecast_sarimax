@@ -1,5 +1,6 @@
 # store_sales_forecast_sarimax
-Time series analysis and forecast for Kaggle Playground Code Challenge: https://www.kaggle.com/competitions/demand-forecasting-kernels-only/
+- Time series analysis and forecast for Kaggle Playground Code Challenge: 
+- https://www.kaggle.com/competitions/demand-forecasting-kernels-only/
 
 ### Brief
 - This competition is provided as a way to explore different time series techniques on a relatively simple and clean dataset.
