@@ -15,7 +15,7 @@
 
 **Feature Engineering for exogenous features**
   - US holidays
-  - seasonal_decompose(period=365).seasonal (as SARIMAX seasonal order was set to period=7, with the hope that model is able to capture both annual and weekly variances)
+  - seasonal_decompose(period=365).seasonal (as SARIMAX seasonal order was set to period=7, with the hope that model is able to capture both annual and weekly variations)
 
 **Model Selection**
   - using auto ARIMA and further param tuning to hone in on the model with best balance of score/computation required.
