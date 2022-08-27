@@ -9,9 +9,8 @@ Time series analysis and forecast for Kaggle Playground Code Challenge: https://
 (There are 10 stores, and 50 items on sale.)
 
 ### Notebooks Summary
-`storesales_modelselection.ipynb - EDA, feature engineering, model selection
-
-`storesales_prediction.ipynb     - streamlined code for batch generating individual models and predictions for each item-store set
+- `storesales_modelselection.ipynb` - EDA, feature engineering, model selection
+- `storesales_prediction.ipynb`     - streamlined code for batch generating individual models and predictions for each item-store set
 
 **Feature Engineering for exogenous features**
   - US holidays
